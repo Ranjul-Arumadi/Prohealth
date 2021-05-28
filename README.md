@@ -37,6 +37,6 @@ The idea is to be implemented as an upgrade to the existing digitization employe
 
 - Creation of a software application driven by powerful prediction algorithms while being backed up by a unified database of strong information collected from different hospitals. 
 
-- Creating and training a model with available data and verify the accuracy of the prediction result.
+- Creating and training a model with available data to predict an ailment that might come in future.
 
 - Mapping patients with their follow-up date along with a score for their ailment (to determine the seriousness of coming on time for follow-up) and send alerts via mail, registered numbers as messages and in extreme stages notifying the hospital authorities to initiate action if the patient does not turn up.
