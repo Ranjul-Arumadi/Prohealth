@@ -1,3 +1,5 @@
+Goto the <a href="https://github.com/Ranjul-Arumadi/Prohealth/wiki">wiki</a> page.
+
 # Prohealth
 
 ### Introduction:
